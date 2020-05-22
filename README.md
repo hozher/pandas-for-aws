@@ -5,3 +5,5 @@
 - pandas
 - boto3
 - numpy
+- xlrd
+- requests
