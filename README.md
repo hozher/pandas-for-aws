@@ -7,3 +7,4 @@
 - numpy
 - xlrd
 - requests
+- openpyxl
