@@ -8,3 +8,4 @@
 - xlrd
 - requests
 - openpyxl
+- xlsxwriter

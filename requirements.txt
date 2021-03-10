@@ -4,3 +4,4 @@ numpy
 xlrd
 requests
 openpyxl
+xlsxwriter
